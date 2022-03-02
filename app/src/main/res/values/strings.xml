@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pratica7_peliculas_204687</string>
+
+    <string name="peliTitulo1">Batman</string>
+    <string name="peliTitulo2">Uncharted: Fuera del Mapa</string>
+    <string name="peliTitulo3">Pacto con el Diablo</string>
+    <string name="peliTitulo4">Licorice Pizza</string>
+    <string name="peliTitulo5">Adiós, Idiotas</string>
+
+    <string name="peliSip1">El director Matt Reeves (películas de “El Planeta de los Simios”) está al frente con Robert Pattinson (“Tenet”, “El Faro”, “Good Time: Viviendo al Límite”) quien protagoniza a Batman —el detective vigilante de Ciudad Gótica— y a el multimillonario Bruce Wayne.</string>
+    <string name="peliSip2">Basado en uno de los juegos más aclamados por la critica y que más ha vendido en la historia, Uncharted: Fuera del mapa, narra la historia de Nathan Drake y la primer aventura con su socio-rival Victor “Sully” Sullivan.</string>
+    <string name="peliSip3">Mientras trata de superar el suicidio de su marido Joseph (Joe Anderson), Evelyn Haverstock (Charlotte Kirk) es acusada de ser una bruja tras rechazar a su arrendador. El mayor cazador de brujas de Inglaterra, el juez Moorcroft (Sean Pertwee), decide entonces perseguirla incansablemente, lo que provoca que Evelyn comience gradualmente a perder la cordura y haga un pacto con el Diablo.</string>
+    <string name="peliSip4">LICORICE PIZZA es la historia de Alana Kane y Gary Valentine mientras crecían, corrían alrededor y se enamoraban en el Valle de San Francisco, 1973. Escrita y Dirigida por Paul Thomas Anderson, la película navega la traicionera exploración del primer amor.</string>
+    <string name="peliSip5">Cuando Suze Trappet se entera a los 43 años de que está gravemente enferma, decide ir en busca del hijo al que se vio obligada a abandonar cuando quedó embarazada siendo apenas una adolescente. Su búsqueda administrativa le hará conocer a JB, un cincuentón en plena depresión, y al Sr. Blin, un hombre ciego con un entusiasmo arrasador. Los tres se embarcan en una búsqueda tan espectacular como imposible.</string>
+
+</resources>
